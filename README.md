@@ -1,2 +1,1 @@
-# BioPythonNotes
-Notes for Biopython
+# BioPython Notes
